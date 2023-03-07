@@ -270,12 +270,13 @@ footer{
     bottom:70px
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 620px) {
 
-  .parte h1{
-   display:none;
-   margin:0;
-   flex-direction: column-reverse; 
+ 
+   div{
+    display: block;
+    width: 100%;
+} 
   }
     
  
