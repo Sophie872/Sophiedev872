@@ -24,7 +24,6 @@ body{
     background-color:rgb(43, 159, 226);
     color: black;
     padding: 10px;
-    position:absolute;	
 }
 
  .parte ul{
@@ -269,15 +268,4 @@ footer{
     height: 50px;
     bottom:70px
 }
-
-@media only screen and (max-width: 620px) {
-
- 
-   div{
-    display: block;
-    width: 100%;
-} 
-  }
-    
- 
 
