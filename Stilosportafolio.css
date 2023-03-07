@@ -270,19 +270,13 @@ footer{
     bottom:70px
 }
 
-@media screen and (max-width: 500px) {
+@media only screen and (max-width: 800px) {
 
-  .parte ul{
+  .parte h1{
    display:none;
    margin:0;
    flex-direction: column-reverse; 
   }
     
- .parte li{
-     
-     padding: 0;
-	width: 100px;
-    }
-    
-}
+ 
 
