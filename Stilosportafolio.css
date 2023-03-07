@@ -271,8 +271,8 @@ footer{
 
 @media screen and (max-width: 400px) {
 
-  p{
-    color: black;
+  parte{
+   display:none;
   }
   
 }
