@@ -269,11 +269,19 @@ footer{
     bottom:70px
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
 
-  parte{
+  .parte ul{
    display:none;
+   margin:0;
+   flex-direction: column-reverse; 
   }
-  
+    
+ .parte li{
+     
+     padding: 0;
+	width: 100px;
+    }
+    
 }
 
